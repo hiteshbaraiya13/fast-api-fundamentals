@@ -1,4 +1,4 @@
-# Flask API Fundamentals
+# Fast API Fundamentals
 
 A small collection of practice API endpoints built with **FastAPI** (the file is named for the original Flask exercise it grew out of, but the code itself imports and runs on FastAPI).
 
