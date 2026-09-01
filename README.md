@@ -17,7 +17,7 @@ pip install fastapi uvicorn
 ## Running
 
 ```bash
-uvicorn FlaskAPIFundamentals:app --reload
+uvicorn fastAPIFundamentals:app --reload
 ```
 
 The API will be available at `http://127.0.0.1:8000`, with interactive docs at `http://127.0.0.1:8000/docs`.
